@@ -19,6 +19,7 @@ Aplicar el teorema de superposición para comprovar las mediciones en la simulac
   
 ## 2.Marco Teórico
 
+[![Diagrama-en-blanco.jpg](https://i.postimg.cc/YCD6TnBN/Diagrama-en-blanco.jpg)](https://postimg.cc/yD93ZTdW)
 
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -62,9 +63,21 @@ conclusiones.
 [![tabla-2.png](https://i.postimg.cc/ZR0csGQh/tabla-2.png)](https://postimg.cc/0MRDbBxt)
 
 ### 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+- Calculo 
 
+[![1.png](https://i.postimg.cc/qvz5gZ0q/1.png)](https://postimg.cc/4YR5SPYR)
 
+[![2.png](https://i.postimg.cc/KYTpDk1y/2.png)](https://postimg.cc/p92B2dQ0)
 
+[![3.png](https://i.postimg.cc/SspTTS9Y/3.png)](https://postimg.cc/HJB9jCBT)
+
+[![4.png](https://i.postimg.cc/cHMDPp79/4.png)](https://postimg.cc/Q9CkTny1)
+
+- Calculo de error
+
+[![5.png](https://i.postimg.cc/N0Q2pZMf/5.png)](https://postimg.cc/nXwLLRB6)
+
+[![6.png](https://i.postimg.cc/W4SFKSFm/6.png)](https://postimg.cc/d7kVZ29D)
 
 ### 5. VIDEO
 
